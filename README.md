@@ -1,5 +1,5 @@
 # joe2tga
-# █ Yo! Joe! (Msdos) --- GFX Reverse Engineering project - 1993 action platform and beat'em up arcade game <br> yojoe YoJoe Yo!Joe! <br>
+# █ Yo! Joe! (Msdos) --- GFX Reverse Engineering project - 1993 action platform and beat'em up arcade game <br> yojoe YoJoe Yo!Joe! ■ Sprite <---> TGA <---> Sprite <br>
 ***You can take the graphics from the game, modify them with Photoshop, and then put them back in game without any issues, game is working :-)***
 # **NOT READY YET *** NOT RELEASED YET** 
 <br>
