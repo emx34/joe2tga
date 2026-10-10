@@ -5,7 +5,7 @@
 <img width="1596" height="1998" alt="Yojoe_1" src="https://github.com/user-attachments/assets/35f50c9c-516a-4929-8cce-fb9bea3e913e" />
 <br>
 
-# Joe2TGAL-L
+# Joe2TGA-L
 **■ Joe2tgal.exe : PLANAR,CHUNKY,256-COLOUR PICTURE(with region layout) >>> Converter** <br>
 <img width="917" height="593" alt="JOE1" src="https://github.com/user-attachments/assets/52fcfbae-c9f7-4e7e-a411-7455da707935" />
 <br>
