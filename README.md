@@ -7,7 +7,7 @@
 
 # Joe2TGA-L
 **■ Joe2tgal.exe : PLANAR,CHUNKY,256-COLOUR PICTURE(with region layout) >>> Converter** <br>
-<img width="917" height="593" alt="JOE1" src="https://github.com/user-attachments/assets/52fcfbae-c9f7-4e7e-a411-7455da707935" />
+<img width="917" height="593" alt="JOE1" src="https://github.com/user-attachments/assets/dd8b9f02-641d-4fc5-8e97-db82a218188c" />
 <br>
 <br>
 
