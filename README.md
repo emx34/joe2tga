@@ -6,7 +6,7 @@
 <br>
 
 # Joe2TGA-L
-**■ Joe2tgal.exe : PLANAR,CHUNKY,256-COLOUR PICTURE(with region layout) >>> Converter** <br>
+**■ Joe2tgal.exe : PLANAR,CHUNKY,256-COLOUR PICTURE(with region layout) >>> Bidirectional TGA Converter** <br>
 <img width="817" height="1006" alt="JOE1 joe2tgaL" src="https://github.com/user-attachments/assets/62dc50cb-d0f3-48f8-b9dc-7a2dbed769cb" />
 <br>
 
