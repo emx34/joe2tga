@@ -6,9 +6,9 @@
 <br>
 
 # **Joe2TGAL-L**
-**Yo!Joe PLANAR,CHUNKY,256-COLOUR PICTURE(WITH REGION LAYOUT) >>> Converter **
+**Yo!Joe PLANAR,CHUNKY,256-COLOUR PICTURE(WITH REGION LAYOUT) >>> Converter ** <br>
 <img width="917" height="593" alt="JOE1" src="https://github.com/user-attachments/assets/52fcfbae-c9f7-4e7e-a411-7455da707935" />
-**■ Joe2tgal.exe : PLANAR,CHUNKY,256-COLOUR PICTURE(WITH REGION LAYOUT) >>> Converter **
+**■ Joe2tgal.exe : PLANAR,CHUNKY,256-COLOUR PICTURE(WITH REGION LAYOUT) >>> Converter** <br>
 
 
 <br> <br> ___ **Contact:** https://www.vogons.org/viewforum.php?f=7 * (DOS Games/Apps): em34 <br>
