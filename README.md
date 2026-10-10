@@ -7,7 +7,7 @@
 
 # Joe2TGA-L
 **■ Joe2tgal.exe : PLANAR,CHUNKY,256-COLOUR PICTURE(with region layout) >>> Converter** <br>
-<img width="828" height="740" alt="JOE1 joe2tgaL" src="https://github.com/user-attachments/assets/aff40c15-8457-4893-9629-3641745f12c5" />
+<img width="917" height="593" alt="JOE1 joe2tgaL" src="https://github.com/user-attachments/assets/2130917f-f48d-4d43-af21-2d4e661c73cc" />
 <br>
 
 <br> <br> ___ **Contact:** https://www.vogons.org/viewforum.php?f=7 * (DOS Games/Apps): em34 <br>
